@@ -31,4 +31,8 @@
 
 [before](3_before.jpg) |  [after](3_after.jpg)
 
-![Протокол работы youtube.com](3_after.jpg)
+![10 изменений на сайте wiki](3_after.jpg)
+
+4. Создайте прототип низкой детализации dzen.ru 
+
+![Прототип dzen](4_proto.jpg)
