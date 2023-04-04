@@ -23,6 +23,12 @@
 
 ![Протокол работы youtube.com](1_protocol.jpg)
 
-2. Структура страницы wikipedia.org
+2. Структура страницы ru.wikipedia.org
 
 [Файл домашнего задания 2_analyze.txt](2_analyze.txt)
+
+3. Внести 10 изменений на страницу ru.wikipedia.org
+
+[before](3_before.jpg) |  [after](3_after.jpg)
+
+![Протокол работы youtube.com](3_after.jpg)
